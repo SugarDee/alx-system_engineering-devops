@@ -1,1 +1,1 @@
-‘my first shell project’
+prints the absolute path name of the current working directory
